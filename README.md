@@ -1,7 +1,7 @@
 # demo
 ## Jenkins setup
-**STEP 1: Jenkins Installation on Linux**
-**a. Install Java on the system**
+****STEP 1: Jenkins Installation on Linux****
+**a. Install Java on the system**: 
 sudo apt update
 sudo apt install fontconfig openjdk-17-jre
 java -version
