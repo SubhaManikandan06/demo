@@ -1,5 +1,5 @@
 # demo
-# Jenkins setup
+## Jenkins setup
 **STEP 1: Jenkins Installation on Linux**
 **a. Install Java on the system**
 sudo apt update
